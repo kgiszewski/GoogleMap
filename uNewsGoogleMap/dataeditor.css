@@ -1,0 +1,29 @@
+.uNewsGoogleMapSaveBox{
+    display: none;
+    width: 100%;
+}
+
+.uNewsGoogleMapDiv{
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+}
+
+
+.uNewsGoogleMapSearchDiv{
+    margin-bottom: 10px;
+}
+
+.uNewsGoogleMapSearchBox{
+    width: 300px;
+    height: 5em;
+}
+
+.uNewsGoogleMapControls{
+    margin-bottom: 10px;
+}
+
+.uNewsGoogleMapSearchButton{
+    display: block;
+    float: right;
+}

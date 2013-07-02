@@ -1,0 +1,12 @@
+.saveBox{
+    width: 100%;
+    display: none;
+}
+
+input[type=text]{
+    width: 60px;
+}
+
+input[type=text].address{
+    width: 200px;
+}
